@@ -4,10 +4,10 @@
     "size": "7MB",
     "status": "online",
     "changelog": [
-        "Fixed injection issues",
-        "Improved stability",
-        "Added new Cloud Service",
-        "updated to latest rblx patch"
+        "Updated Latest version",
+        "Working rconsolecreate()",
+        "Improved rconsole err",
+        "Improved rconsole info"
     ],
     "windows": {
         "enabled": true,
