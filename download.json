@@ -1,19 +1,19 @@
 {
-    "version": "4.0.0",
-    "updated": "Mar 1, 2026",
+    "version": "1.0.7",
+    "updated": "Mar 3, 2026",
     "size": "7MB",
     "status": "online",
     "changelog": [
         "Fixed injection issues",
         "Improved stability",
         "Added new Cloud Service",
-        "Changed UNC to 90%"
+        "updated to latest rblx patch"
     ],
     "windows": {
         "enabled": true,
         "direct": "https://gofile.io/d/m5vE6U",
         "lootlabs": "https://loot-link.com/s?4oCsXNml",
-        "linkvertise": "https://filedm.com",
+        "linkvertise": "https://filedm.com/2S6tP",
         "workink": "https://work.ink/1UPu/astralise-1"
     }
 }
