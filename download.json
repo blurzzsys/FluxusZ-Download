@@ -4,10 +4,17 @@
     "size": "7MB",
     "status": "online",
     "changelog": [
-        "Updated Latest version",
-        "Working rconsolecreate()",
-        "Improved rconsole err",
-        "Improved rconsole info"
+        "UI Rework",
+        "New Setting: Autoattach",
+        "New Setting: Streamer Mode",
+        "New Setting: Console Redirect",
+        "New Setting: Clear Data",
+        "Easteregg (no hits for yall gl)",
+        "Help Tab",
+        "Credits Tab",
+        "Settings now autosave",
+        "Improved Attach Method",
+        "Saved Key Location has moved! You need to reenter ur key"
     ],
     "windows": {
         "enabled": true,
